@@ -5,4 +5,4 @@ The bash scripts, test1.sh and test2.sh, compare the program's output with the e
 
 This project makes use of some of the programs in Princeton's Introduction to Programming in Java's standard library. The library can be found at: https://introcs.cs.princeton.edu/java/stdlib/
 
-The samples, pictures and project instructions were provided by Stelenbosch University.
+The samples, pictures and project instructions were provided by Stellenbosch University.
